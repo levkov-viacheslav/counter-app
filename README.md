@@ -1,0 +1,1 @@
+A simple application-counter, was building using by html, CSS and JavaScript. It counts a number up or down, cans reset it to 0 and changes the number's color.
